@@ -1,3 +1,5 @@
+/*Almacenar calicifaciones*/
+
 #include <iostream>
 
 int main() {
